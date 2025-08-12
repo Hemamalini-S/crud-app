@@ -88,9 +88,6 @@ if ($conn->connect_error) {
 5. Run the App
 
 Start Apache and MySQL in XAMPP.
-
-Open your browser and visit:
-http://localhost/mobile-crud/read.php
 		
 
 
