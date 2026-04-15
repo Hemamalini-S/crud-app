@@ -1,10 +1,5 @@
-# crud-app
-Alright — here’s one single README.md content block without separating explanations into multiple code sections so you can copy-paste directly to GitHub in one go.
 
-
----
-
-📱 Mobile Products CRUD App
+ Mobile Products CRUD App
 
 A simple Create, Read, Update, Delete (CRUD) application for managing mobile products, built using PHP, MySQL, HTML, CSS, and JavaScript.
 
