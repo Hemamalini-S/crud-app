@@ -100,10 +100,7 @@ This project is licensed under the MIT License - free to use and modify.
 Your Name – GitHub Profile
 
 
----
 
-If you want, I can now make the database.sql and all PHP CRUD files so you can upload the full working project to GitHub in one go.
-Do you want me to create that?
 
 
 
